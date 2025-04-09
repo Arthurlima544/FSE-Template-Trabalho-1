@@ -39,23 +39,35 @@ Exemplo de Imagem:
 ## Memória EEPROM
 
 # Sistema Operacional
+## GPOS
+## RTOS
+## Sem SO
 
 # Sensores e Atuadores
 
 # Modulos e interfaces de comunicação
 
 # Interfaces de Comunicação com fio
+## I2C
+## SPI
 ## UART
 #### 1. **Como Funciona a UART**
 #### 2. **Taxa de Baud (Baud Rate)**
-#### 3. **Configuração da UART **
+#### 3. **Configuração da UART**
+## CAN
 ## Ethernet
 ##### Características do Ethernet:
 
 # Interfaces de Comunicação sem fio
+
 ## WI-FI
 ## Bluetooh
 ## Cat-M
+## NB-IoT
+## Zigbee
+## LoRaWAN
+## UWB
+## NFC
 
 # NB-IoT
 ## Zigbee
@@ -65,7 +77,7 @@ Exemplo de Imagem:
 
 # Unidades de Entrada/Saída (I/O)
 ## GPIO
-## ADC
+## ADC/DAC
 ## PWM
 
 # Fonte de Energia e Sistema de Alimentação
@@ -78,17 +90,21 @@ Exemplo de Imagem:
 ## Supervisores de Energia
 
 # Firmware e Atualizações
+## Firmware
+## Atualizações Over-the-Air (OTA)
 
 # Unidade de Proteção e Segurança
 ## Criptografia
+## Hardware Security Module
+## Outros (Autenticação, controle de acesso, e uso de VPNs ou TLS para comunicação segura)
 
 # Armazenamento Externo
+
+# Artigos
 
 # Interface com o Usuário (UI)
 
 # Produtos Relacionados
 ## Comparação Unidades Vendidas Mundialmente
-
-# Artigos
 
 # Referências
